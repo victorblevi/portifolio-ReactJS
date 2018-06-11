@@ -1,0 +1,104 @@
+@media all and (min-width: 1025px) {
+    .adjust-cv-center{
+      margin-left: 20em;
+    }
+  }
+  
+
+.background3{
+    height: auto;
+    background-color: #282c34; 
+    background-size:cover;
+}
+
+.foto-perfil{
+    border-radius: 50%;
+}
+
+.column1{
+    background-color: rgb(249, 249, 249);
+   
+    
+}
+.column2{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+.markc{
+    border:solid;
+    border-color: red;
+    border-width: 2px;
+}
+
+.text-title{
+    font-size: 24px;
+    font-weight: 600;
+    color:rgb(106, 182, 180);
+    letter-spacing: 3px;
+    padding: 0%;
+    margin:0;
+    text-transform: uppercase;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px solid rgb(106, 182, 180);
+    margin: 1em 0;
+    padding: 0;
+    width: 45%;
+}
+
+.divider {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px solid rgb(106, 182, 180);
+    margin: 1em 0;
+    padding: 0;
+    width: 90%;
+}
+
+.text-desc{
+    font-size:14px;
+
+}
+
+.text-desc-2{
+    font-size:12px;
+    letter-spacing: 0.15em;
+
+}
+.text-desc-3{
+    font-size:20px;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+}
+.text-desc-4{
+    font-size:13px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0;
+    margin:0;
+    color: rgb(85, 85, 85)
+}
+.text-desc-5{
+    font-size: 16px;
+    letter-spacing: 0.2em;
+    margin: 0;
+    text-transform: uppercase;
+
+}
+
+
+li{
+    font-size: 18px;
+    color: rgb(97, 97, 97);
+}
+
+.color-text{
+    color:rgb(17, 17, 17);
+}
